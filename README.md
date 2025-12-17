@@ -1,5 +1,5 @@
 # Temporal Airbnb Seasonality and Modeling  
-**EAS 510: Basics of AI – Extra Credit Assignment**
+
 
 ## Overview
 This project investigates the **temporal dynamics and seasonality of Airbnb markets** across four major U.S. cities:
